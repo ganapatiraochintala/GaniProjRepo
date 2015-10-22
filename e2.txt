@@ -1,6 +1,15 @@
 hi this is frm e2
 bye
+<<<<<<< HEAD
 wil see again
 hi
 i very happy to see you again
 bye will meet agian
+=======
+wil see againf
+
+hi 
+i camme back again to meet you
+nice meetin you
+bey for now
+>>>>>>> new-feature
